@@ -44,6 +44,7 @@
 ## 3. Dự đoán và thực tế
 
 *Chọn 3 dự đoán `predict(...)` lệch nhiều nhất so với kết quả. Mỗi cái: bạn đoán gì, ra gì, vì sao lệch.*
+Dự đoán loss của learningrate = 50 sẽ giao lệch rất xa điểm hội tụ nhuwg thực tế loss lại rất thấp thấp nhất trong các learningrate test
 
 ## 4. Phân tích 50 case khó
 
